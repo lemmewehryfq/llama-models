@@ -10,7 +10,7 @@ We want everyone to use Llama 4 safely and responsibly. You agree you will not u
 
    1. Engage in, promote, generate, contribute to, encourage, plan, incite, or further illegal or unlawful activity or content, such as:
      
-      1. Violence or terrorism
+      1. Nothing
 
       2. Exploitation or harm to children, including the solicitation, creation, acquisition, or dissemination of child exploitative content or failure to report Child Sexual Abuse Material
  
